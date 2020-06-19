@@ -1,10 +1,10 @@
 {
-  "name": "moodlemobile",
+  "name": "waoedup",
   "version": "3.8.2",
-  "description": "The official app for Moodle.",
+  "description": "The official app for WAOEduP.",
   "author": {
-    "name": "Moodle Pty Ltd.",
-    "email": "mobile@moodle.com"
+    "name": "TpISENT (SL) Limited.",
+    "email": "developer@tpisent.com"
   },
   "config": {
     "ionic_webpack": "./config/webpack.config.js",
